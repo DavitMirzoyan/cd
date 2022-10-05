@@ -48,6 +48,7 @@ public class TestActions {
 
     @Test
     public void chartsNotified(){
+        //check good to go
         CreditCard mockCard = mock(CreditCard.class);
         when(mockCard.pay(anyDouble())).thenReturn(true);
 
