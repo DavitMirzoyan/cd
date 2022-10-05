@@ -1,0 +1,8 @@
+Buy a CD
+Card is accepted: Stock of that CD is reduced by number ordered
+Card is rejected: Stock is unchanged
+Insufficient Stock:
+
+Searching on the title and artist
+1. Title not available
+2. Artist not available
